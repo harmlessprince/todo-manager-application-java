@@ -1,0 +1,12 @@
+Tasks
+
+1. Create CRUD for users
+
+2. Create CRUD for tasks
+
+3. Implement Authentication
+
+4. Imppliment Authorization
+
+
+https://mysql.tutorials24x7.com/blog/guide-to-design-database-for-task-manager-in-mysql
